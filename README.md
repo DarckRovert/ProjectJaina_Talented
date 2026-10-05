@@ -3,6 +3,11 @@
 > **Ecosistema Oficial WoW Perú · Reino Andino**  
 > Cliente: World of Warcraft 3.3.5a (Build 12340) | `Interface: 30300` | Versión: `v2.4.8`
 
+[![WoW Client](https://img.shields.io/badge/WoW%20Client-3.3.5a%20(Build%2012340)-blue.svg)](https://wow-peru.lat/)
+[![Servidor](https://img.shields.io/badge/Servidor-WoW%20Perú-gold.svg)](https://wow-peru.lat/)
+[![Version](https://img.shields.io/badge/version-2.4.8-brightgreen.svg)](https://github.com/DarckRovert/WoWPeru_Talented/releases)
+[![License: Third-Party Notice](https://img.shields.io/badge/License-NOTICE.md-blue.svg)](NOTICE.md)
+
 **Talented** es el editor integral y avanzado de plantillas de talentos, calculadoras de mascotas y gestor de glifos para World of Warcraft 3.3.5a. Esta versión corresponde a la **Kader Edition**, empaquetada e integrada de manera canónica dentro del ecosistema de addons de WoW Perú.
 
 ---
@@ -60,6 +65,18 @@ Para conocer el mapa de integración técnica y compatibilidad de este addon con
 * [Historial de Cambios y Versiones](CHANGELOG.md)
 
 ---
+
+---
+
+## 📄 Licencia y Atribución Legal
+
+**Talented (Kader Edition)** es una bifurcación comunitaria basada en el trabajo original de Jerry (WowAce) y adaptada para WotLK por Kader (`bkader`).
+
+* **Núcleo de Talented:** Distribuido bajo condiciones comunitarias abiertas para World of Warcraft. Consulta [NOTICE.md](NOTICE.md).
+* **Librerías Ace3 embebidas (`Libs/`):** Licenciadas por el Ace3 Development Team bajo la licencia **BSD 3-Clause**.
+* **LibStub:** Dominio público.
+
+Consulta el archivo [NOTICE.md](NOTICE.md) para el texto legal íntegro de la licencia BSD 3-Clause y los derechos de autor correspondientes.
 
 ## 👥 Créditos y Autoría
 
