@@ -1,4 +1,4 @@
-# |cFFD4AF37WoW Perú|r — Talented (Kader Edition)
+# 🇵🇪 WoW Perú — Talented (Kader Edition)
 
 > **Ecosistema Oficial WoW Perú · Reino Andino**  
 > Cliente: World of Warcraft 3.3.5a (Build 12340) | `Interface: 30300` | Versión: `v2.4.8`
