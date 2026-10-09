@@ -1,6 +1,6 @@
-# Aviso Legal y Créditos de Código de Terceros — WoWPeru_Talented
+# Aviso Legal y Créditos de Código de Terceros — Wanos_Talented
 
-Este repositorio forma parte del ecosistema oficial de **WoW Perú - Reino Andino**.
+Este repositorio forma parte del ecosistema oficial de **Project Jaina - Project Jaina**.
 Contiene adaptaciones, empaquetado y mantenimiento del addon **Talented** para el cliente World of Warcraft 3.3.5a (Build 12340).
 
 ---
@@ -10,7 +10,7 @@ Contiene adaptaciones, empaquetado y mantenimiento del addon **Talented** para e
 * **Autor Original:** Jerry (WowAce / WoWInterface).
 * **Edición All-In-One (WotLK 3.3.5a):** Kader Edition (`bkader/Talented_WoTLK`).
   * Integración de módulos de glifos (`Talented_GlyphFrame`), pestañas de especialización (`Talented_SpecTabs`) y calculadoras de mascotas en una arquitectura única sin dependencias externas obligatorias.
-* **Integración y Gobernanza:** DarckRovert (Elnazzareno) & WoW Perú Team.
+* **Integración y Gobernanza:** DarckRovert (Elnazzareno) & Project Jaina Team.
 
 ---
 
@@ -63,7 +63,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 El código base original de Jerry y las modificaciones de Kader Edition se distribuyen históricamente en la comunidad de desarrollo de interfaces de World of Warcraft bajo condición de uso "as-is", sin una concesión explícita de licencia comercial abierta.
 
-Por respeto estricto a los derechos de autor originales y conforme a las políticas de gobernanza de WoW Perú:
+Por respeto estricto a los derechos de autor originales y conforme a las políticas de gobernanza de Project Jaina:
 1. No se aplica una licencia MIT indiscriminada sobre el código fuente de terceros.
 2. Se preservan intactos todos los créditos, cabeceras de autoría en archivos Lua/TOC y avisos de copyright.
-3. Las mejoras, correcciones y adaptaciones realizadas por el equipo de WoW Perú se ofrecen para beneficio exclusivo de la comunidad del Reino Andino y compatibilidad de su cliente de juego canónico.
+3. Las mejoras, correcciones y adaptaciones realizadas por el equipo de Project Jaina se ofrecen para beneficio exclusivo de la comunidad del Project Jaina y compatibilidad de su cliente de juego canónico.

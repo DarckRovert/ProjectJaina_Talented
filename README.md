@@ -1,14 +1,14 @@
-# 🇵🇪 WoW Perú — Talented (Kader Edition)
+# 🇵🇪 Project Jaina — Talented (Kader Edition)
 
-> **Ecosistema Oficial WoW Perú · Reino Andino**  
+> **Ecosistema Oficial Project Jaina · Project Jaina**  
 > Cliente: World of Warcraft 3.3.5a (Build 12340) | `Interface: 30300` | Versión: `v2.4.8`
 
-[![WoW Client](https://img.shields.io/badge/WoW%20Client-3.3.5a%20(Build%2012340)-blue.svg)](https://wow-peru.lat/)
-[![Servidor](https://img.shields.io/badge/Servidor-WoW%20Perú-gold.svg)](https://wow-peru.lat/)
-[![Version](https://img.shields.io/badge/version-2.4.8-brightgreen.svg)](https://github.com/DarckRovert/WoWPeru_Talented/releases)
+[![WoW Client](https://img.shields.io/badge/WoW%20Client-3.3.5a%20(Build%2012340)-blue.svg)](https://worldofwanos.com/)
+[![Servidor](https://img.shields.io/badge/Servidor-WoW%20Perú-gold.svg)](https://worldofwanos.com/)
+[![Version](https://img.shields.io/badge/version-2.4.8-brightgreen.svg)](https://github.com/DarckRovert/Wanos_Talented/releases)
 [![License: GPL-2.0](https://img.shields.io/badge/License-GPL--2.0-blue.svg)](LICENSE)
 
-**Talented** es el editor integral y avanzado de plantillas de talentos, calculadoras de mascotas y gestor de glifos para World of Warcraft 3.3.5a. Esta versión corresponde a la **Kader Edition**, empaquetada e integrada de manera canónica dentro del ecosistema de addons de WoW Perú.
+**Talented** es el editor integral y avanzado de plantillas de talentos, calculadoras de mascotas y gestor de glifos para World of Warcraft 3.3.5a. Esta versión corresponde a la **Kader Edition**, empaquetada e integrada de manera canónica dentro del ecosistema de addons de Project Jaina.
 
 ---
 
@@ -43,7 +43,7 @@ El microbotón nativo de talentos (`TalentMicroButton`) y la tecla de acceso rá
 > ```text
 > World of Warcraft\Interface\AddOns\Talented\
 > ```
-> **NO renombrar la carpeta local a `WoWPeru_Talented`.**  
+> **NO renombrar la carpeta local a `Wanos_Talented`.**  
 > Los hooks de carga diferida de Blizzard (`ToggleTalentFrame`, `ToggleGlyphFrame`), las directivas `X-LoadOn-Execute` y la comunicación entre submódulos dependen del identificador de addon exacto `"Talented"`.
 
 ---
@@ -57,7 +57,7 @@ El microbotón nativo de talentos (`TalentMicroButton`) y la tecla de acceso rá
 
 ---
 
-## 🌐 Integración en el Ecosistema WoW Perú
+## 🌐 Integración en el Ecosistema Project Jaina
 
 Para conocer el mapa de integración técnica y compatibilidad de este addon con el resto de módulos del servidor, consulta:
 * [Ficha Técnica Oficial del Ecosistema](ECOSYSTEM_REGISTRY.md)
@@ -82,4 +82,4 @@ Consulta los archivos [NOTICE.md](NOTICE.md) y [LICENSE](LICENSE) para el desglo
 
 * **Autor Original:** Jerry (WowAce / WoWInterface).
 * **Edición y Mantenimiento WotLK 3.3.5a:** Kader Edition (`bkader`).
-* **Integración y Gobernanza:** DarckRovert (Ingame: Elnazzareno) & WoW Perú Team.
+* **Integración y Gobernanza:** DarckRovert (Ingame: Elnazzareno) & Project Jaina Team.
