@@ -1,4 +1,4 @@
-# Aviso Legal y Créditos de Código de Terceros — Wanos_Talented
+# Aviso Legal y Créditos de Código de Terceros — ProjectJaina_Talented
 
 Este repositorio forma parte del ecosistema oficial de **Project Jaina - Project Jaina**.
 Contiene adaptaciones, empaquetado y mantenimiento del addon **Talented** para el cliente World of Warcraft 3.3.5a (Build 12340).
@@ -10,7 +10,7 @@ Contiene adaptaciones, empaquetado y mantenimiento del addon **Talented** para e
 * **Autor Original:** Jerry (WowAce / WoWInterface).
 * **Edición All-In-One (WotLK 3.3.5a):** Kader Edition (`bkader/Talented_WoTLK`).
   * Integración de módulos de glifos (`Talented_GlyphFrame`), pestañas de especialización (`Talented_SpecTabs`) y calculadoras de mascotas en una arquitectura única sin dependencias externas obligatorias.
-* **Integración y Gobernanza:** DarckRovert (Elnazzareno) & Project Jaina Team.
+* **Integración y Gobernanza:** DarckRovert (Elnazzareno) & Antigravity (Mythos 5).
 
 ---
 

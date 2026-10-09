@@ -1,7 +1,7 @@
-# 🤖 Directrices de Ingeniería y Restricciones para Agentes IA — Wanos_Talented
+# 🤖 Directrices de Ingeniería y Restricciones para Agentes IA — ProjectJaina_Talented
 
-**Addon:** `Wanos_Talented`  
-**Repositorio Oficial:** [https://github.com/DarckRovert/Wanos_Talented](https://github.com/DarckRovert/Wanos_Talented)  
+**Addon:** `ProjectJaina_Talented`  
+**Repositorio Oficial:** [https://github.com/DarckRovert/ProjectJaina_Talented](https://github.com/DarckRovert/ProjectJaina_Talented)  
 **Motor Gráfico y Runtime:** WoW 3.3.5a WotLK (Build 12340) / Lua 5.1 (Blizzard VM)
 
 ---
