@@ -1,7 +1,7 @@
 # 🔌 Especificación Técnica y API — Wanos_Talented
 
 [![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FWanos_Talented-black?logo=github)](https://github.com/DarckRovert/Wanos_Talented)
-[![Ecosistema](https://img.shields.io/badge/Ecosistema-WoW%20Per%C3%BA%203.3.5a-gold.svg)](https://worldofwanos.com/)
+[![Ecosistema](https://img.shields.io/badge/Ecosistema-WoW%20Per%C3%BA%203.3.5a-gold.svg)](https://projectjaina.com/)
 
 ## 📌 Resumen Arquitectónico
 Calculadora de talentos in-game, planificador de builds para clases y mascotas, compartición de árboles e integración de glifos para WoW 3.3.5a.

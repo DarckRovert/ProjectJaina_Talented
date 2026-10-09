@@ -3,8 +3,8 @@
 > **Ecosistema Oficial Project Jaina · Project Jaina**  
 > Cliente: World of Warcraft 3.3.5a (Build 12340) | `Interface: 30300` | Versión: `v2.4.8`
 
-[![WoW Client](https://img.shields.io/badge/WoW%20Client-3.3.5a%20(Build%2012340)-blue.svg)](https://worldofwanos.com/)
-[![Servidor](https://img.shields.io/badge/Servidor-WoW%20Perú-gold.svg)](https://worldofwanos.com/)
+[![WoW Client](https://img.shields.io/badge/WoW%20Client-3.3.5a%20(Build%2012340)-blue.svg)](https://projectjaina.com/)
+[![Servidor](https://img.shields.io/badge/Servidor-WoW%20Perú-gold.svg)](https://projectjaina.com/)
 [![Version](https://img.shields.io/badge/version-2.4.8-brightgreen.svg)](https://github.com/DarckRovert/Wanos_Talented/releases)
 [![License: GPL-2.0](https://img.shields.io/badge/License-GPL--2.0-blue.svg)](LICENSE)
 
