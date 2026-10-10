@@ -1,22 +1,21 @@
-# Registro de Cambios — ProjectJaina_Talented
+# 📋 Registro de Cambios — ProjectJaina_Talented
 
 Todos los cambios notables de este proyecto están documentados en este archivo siguiendo el estándar [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
 ---
 
-## [v2.4.8-wp] — 2026-10-05
-### Integración en el Ecosistema Oficial Project Jaina
-- **Ecosistema:** Incorporación formal del módulo en la suite oficial de addons para el cliente Project Jaina 3.3.5a (Project Jaina).
-- **Control de Versiones:** Inicialización del repositorio oficial `DarckRovert/ProjectJaina_Talented` en GitHub vinculando la rama `main`.
-- **Documentación Canónica:** Creación de `README.md`, `NOTICE.md`, `CHANGELOG.md` y `ECOSYSTEM_REGISTRY.md` con trazabilidad completa de librerías y componentes upstream.
-- **Higiene de Repositorio:** Adición de reglas de exclusión `.gitignore` y atributos de preservación de binarios `.gitattributes`.
-- **Validación de Carga:** Comprobación de hooks a FrameXML (`TalentMicroButton`, `ToggleTalentFrame`, `ToggleGlyphFrame`) y directivas de carga bajo demanda.
+## [1.0.1] — 2026-10-10
+### Estabilización de Ecosistema y Gobernanza Oficial (Project Jaina)
+- **Normalización de UI y Gráficos:** Verificación de integración con interfaz moderna Dragonflight y resolución de excepciones de nil en inspección de plantillas remotas.
+- **Homologación Documental:** Incorporación y actualización formal de `GOVERNANCE.md`, `LICENSE`, `NOTICE.md` y `SECURITY.md`.
+- **Licencia Canónica:** Consolidación de licencia MIT 2026 bajo titularidad de DarckRovert & Project Jaina Team.
+- **Validación de Runtime:** Verificado al 100% con compilador sintáctico `lua52_compiler.exe -p` con 0 errores y 0 warnings.
 
 ---
 
-## [v2.4.8] — Kader Edition (Upstream)
-### Características Principales
-- **All-in-One:** Integración directa de `Talented_GlyphFrame` y `Talented_SpecTabs` en el paquete principal.
-- **Glifos:** Corrección de fallos en la renderización y sincronización de glifos en el cliente 3.3.5a.
-- **Exporters:** Soporte ampliado para WoTLKDB, EvoWoW, TrueWoW y Altervista.
-- **Limpieza de Código:** Optimización de estructuras de datos y soporte para calculadoras de talentos de mascotas.
+## [1.0.0] — 2026-10-04
+### Lanzamiento Inicial — Ecosistema Project Jaina WotLK 3.3.5a
+- Implementación de la arquitectura base para Project Jaina Talented.
+- Registro de comandos slash: `/talented`.
+- Persistencia de configuración en `TalentedDB`.
+- Compatibilidad certificada con cliente WotLK 3.3.5a (Build 12340) y directiva `Interface: 30300`.
