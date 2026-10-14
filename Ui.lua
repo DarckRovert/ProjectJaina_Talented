@@ -607,7 +607,7 @@ do
 	end
 
 	local function MakeRankFrame(button, anchor)
-		local t = CreateTexture(button, "OVERLAY", "Interface\\AddOns\\ProjectJaina_Talented\\Textures\\border")
+		local t = CreateTexture(button, "OVERLAY", "Interface\\AddOns\\ProjectJaina_Talented\\Textures\\border.tga")
 		t:SetSize(32, 32)
 		t:SetPoint("CENTER", button, anchor)
 		local fs = button:CreateFontString(nil, "OVERLAY", "GameFontNormalSmall")
@@ -683,7 +683,7 @@ do
 
 	local function NewBranch(parent)
 		local t = parent:CreateTexture(nil, "BORDER")
-		t:SetTexture("Interface\\AddOns\\ProjectJaina_Talented\\Textures\\branches-normal")
+		t:SetTexture("Interface\\AddOns\\ProjectJaina_Talented\\Textures\\branches-normal.tga")
 		t:SetSize(32, 32)
 		t:SetVertexColor(NORMAL_FONT_COLOR.r, NORMAL_FONT_COLOR.g, NORMAL_FONT_COLOR.b)
 
@@ -712,7 +712,7 @@ do
 
 	local function NewArrow(parent)
 		local t = parent:CreateTexture(nil, "OVERLAY")
-		t:SetTexture("Interface\\AddOns\\ProjectJaina_Talented\\Textures\\arrows-normal")
+		t:SetTexture("Interface\\AddOns\\ProjectJaina_Talented\\Textures\\arrows-normal.tga")
 		t:SetSize(32, 32)
 		t:SetVertexColor(NORMAL_FONT_COLOR.r, NORMAL_FONT_COLOR.g, NORMAL_FONT_COLOR.b)
 
