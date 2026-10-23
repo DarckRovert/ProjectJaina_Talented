@@ -1,7 +1,7 @@
 # 🔌 Especificación Técnica y API — ProjectJaina_Talented
 
 [![GitHub](https://img.shields.io/badge/GitHub-DarckRovert%2FProjectJaina_Talented-black?logo=github)](https://github.com/DarckRovert/ProjectJaina_Talented)
-[![Ecosistema](https://img.shields.io/badge/Ecosistema-WoW%20Per%C3%BA%203.3.5a-gold.svg)](https://darckrovert.github.io/ProjectJaina_Web/)
+[![Ecosistema](https://img.shields.io/badge/Ecosistema-Project%20Jaina%203.3.5a-gold.svg)](https://darckrovert.github.io/ProjectJaina_Web/)
 
 ## 📌 Resumen Arquitectónico
 Calculadora de talentos in-game, planificador de builds para clases y mascotas, compartición de árboles e integración de glifos para WoW 3.3.5a.
