@@ -3,7 +3,6 @@
 ## Title: Talented
 ## Notes: The Talent Template Editor
 ## Author: Jerry (Kader Edition)
-## Version: 2.4.8
 ## OptionalDeps: Ace3
 ## SavedVariables: TalentedDB
 ## LoadManagers: Talented_Loader AddonLoader
