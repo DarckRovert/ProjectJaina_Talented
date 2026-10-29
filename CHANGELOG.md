@@ -4,7 +4,7 @@ Todos los cambios notables de este proyecto están documentados en este archivo 
 
 ---
 
-## [1.0.1] — 2026-10-10
+## [2.4.8] — 2026-10-10
 ### Estabilización de Ecosistema y Gobernanza Oficial (Project Jaina)
 - **Normalización de UI y Gráficos:** Verificación de integración con interfaz moderna Dragonflight y resolución de excepciones de nil en inspección de plantillas remotas.
 - **Homologación Documental:** Incorporación y actualización formal de `GOVERNANCE.md`, `LICENSE`, `NOTICE.md` y `SECURITY.md`.
