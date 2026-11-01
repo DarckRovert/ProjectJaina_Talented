@@ -1,8 +1,8 @@
 ## Interface: 30300
 ## Version: 2.4.8
-## Title: Talented
+## Title: |cFFD4AF37Project Jaina|r - |cFF00FFCCTalented|r (Kader Edition)
 ## Notes: The Talent Template Editor
-## Author: Jerry (Kader Edition)
+## Author: Jerry (Kader Edition) & Project Jaina Dev Team
 ## OptionalDeps: Ace3
 ## SavedVariables: TalentedDB
 ## LoadManagers: Talented_Loader AddonLoader

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DarckRovert/ProjectJaina_Web/main/images/project_jaina_official_logo.jpg" alt="Project JAIna Official Crest" width="180">
+</p>
+
 # ❄️ Project Jaina — Talented (Kader Edition)
 
 > **Ecosistema Oficial Project Jaina · Project Jaina**  
